@@ -8,3 +8,5 @@ Today I wrote my first program it looked like this:
 print "Hello, World!"
 
 I learned that you can turn on the interpreter by typing "python" into terminal
+
+I like Monty Python
